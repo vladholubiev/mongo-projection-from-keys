@@ -1,6 +1,6 @@
 {
   "name": "mongo-projection-from-keys",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generate MongoDB projection from list of keys to include / exclude",
   "license": "MIT",
   "repository": "vladgolubev/mongo-projection-from-keys",

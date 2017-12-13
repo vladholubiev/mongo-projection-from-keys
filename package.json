@@ -32,5 +32,8 @@
     "modulePathIgnorePatterns": [
       "component-test"
     ]
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
   }
 }
